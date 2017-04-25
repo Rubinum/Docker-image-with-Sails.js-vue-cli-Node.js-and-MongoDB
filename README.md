@@ -1,5 +1,5 @@
-# Docker-image-with-Sails.js-vue-cli-Node.js-and-MongoDB
-Docker image with Sails.js, vue-cli, Node.js and MongoDB
+# Docker image with Sails.js, vue-cli, Node.js and MongoDB
+A simple Docker image to use Sails.js with Vue.js and MongoDB.
 
 ## Usage
 ### Build
